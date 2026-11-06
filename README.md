@@ -38,13 +38,13 @@ A desktop toolkit for Android device workflows, built with **Python**, **PyQt5**
 
 ##  Interface Preview
 
-| Dashboard | Device Control |
+| Theme | Theme |
 |:---:|:---:|
-| ![Dashboard](screenshot/dashboard.jpeg) | ![Control](screenshot/control.jpeg) |
+| ![Dashboard](screenshot/mdk.jpeg) | ![Control](screenshot/orc.jpeg) |
 
-| Screen Mirroring | Package Manager |
+| Theme | Theme |
 |:---:|:---:|
-| ![Mirror](screenshot/mirror.jpeg) | ![Packages](screenshot/package.jpeg) |
+| ![Mirror](screenshot/rose.jpeg) | ![Packages](screenshot/mcs.jpeg) |
 
 
 ## 🇬🇧 English
