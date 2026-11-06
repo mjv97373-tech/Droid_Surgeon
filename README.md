@@ -4,8 +4,8 @@
 <div align="center">
 
 # ⚕️ DROID SURGEON
-Last Version : 2.0.0 Lab Version 
-Old version : 1.1.1
+# Last Edition : 2.0.0 Lab Version 
+# Old version : 1.1.1
 ### Advanced Android Device Management Suite
 
 **Control · Inspect · Mirror · Diagnose**
