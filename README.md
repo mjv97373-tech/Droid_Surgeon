@@ -4,7 +4,8 @@
 <div align="center">
 
 # ⚕️ DROID SURGEON
-
+Last Version : 2.0.0 Lab Version 
+Old version : 1.1.1
 ### Advanced Android Device Management Suite
 
 **Control · Inspect · Mirror · Diagnose**
@@ -18,7 +19,7 @@ A desktop toolkit for Android device workflows, built with **Python**, **PyQt5**
 ![Platform](https://img.shields.io/badge/Platform-Linux-informational)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
 
-**Version:** `1.1.1`
+**Version:** `2.0.0`
 
 </div>
 
