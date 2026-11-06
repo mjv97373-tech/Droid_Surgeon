@@ -40,11 +40,11 @@ A desktop toolkit for Android device workflows, built with **Python**, **PyQt5**
 
 | Theme | Theme |
 |:---:|:---:|
-| ![Dashboard](screenshot/mdk.jpeg) | ![Control](screenshot/orc.jpeg) |
+| ![Theme](screenshot/mdk.jpeg) | ![Theme](screenshot/orc.jpeg) |
 
 | Theme | Theme |
 |:---:|:---:|
-| ![Mirror](screenshot/rose.jpeg) | ![Packages](screenshot/mcs.jpeg) |
+| ![Theme](screenshot/rose.jpeg) | ![Theme](screenshot/mcs.jpeg) |
 
 
 ## 🇬🇧 English
