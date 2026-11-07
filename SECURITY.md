@@ -1,11 +1,11 @@
 # Security Policy
 
 ## Supported Versions
-Currently, only the latest release (v4.0.0) is supported with security updates.
+Currently, only the latest release (v2.0.0) is supported with security updates.
 
 ## Reporting a Vulnerability
 If you discover a security vulnerability within Droid Surgeon, please DO NOT create a public issue. 
-Instead, please send an e-mail to [YOUR_EMAIL@EXAMPLE.COM] or contact me directly on Telegram.
+Instead, please send an e-mail to [mjv97373@gmail.com] or contact me directly on Telegram.
 
 Please include:
 * A description of the vulnerability.
